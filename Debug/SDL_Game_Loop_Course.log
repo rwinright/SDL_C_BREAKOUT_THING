@@ -1,0 +1,8 @@
+﻿  Main.c
+D:\Game Development\SDL_Projects\SDL_Game_Loop_Course\Main.c(131,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game Development\SDL_Projects\SDL_Game_Loop_Course\Main.c(132,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game Development\SDL_Projects\SDL_Game_Loop_Course\Main.c(134,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game Development\SDL_Projects\SDL_Game_Loop_Course\Main.c(135,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game Development\SDL_Projects\SDL_Game_Loop_Course\Main.c(201,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game Development\SDL_Projects\SDL_Game_Loop_Course\Main.c(214,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SDL_Game_Loop_Course.vcxproj -> D:\Game Development\SDL_Projects\SDL_Game_Loop_Course\Debug\SDL_Game_Loop_Course.exe
